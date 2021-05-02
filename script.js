@@ -67,7 +67,7 @@ let percentage = document.querySelector('button#percentage').addEventListener('c
 });
 
 let equal = document.querySelector('button#equal').addEventListener('click', function() {
-	Screen.innerHTML = eval(insertNumber);
+	Screen.innerHTML = eval(insertNumber).toLocaleString('en');
 	insertNumber = eval(insertNumber);
 });
 
