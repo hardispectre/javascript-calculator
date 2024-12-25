@@ -1,5 +1,5 @@
 <h1 align="center">JavaScript Calculator</h1>
-<p align="center">Walways learning 🚀</p>
+<p align="center">Always learning 🚀</p>
 
 ## Front-end
 - HTML5
